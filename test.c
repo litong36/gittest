@@ -2,4 +2,5 @@
 void test(void)
 {
 printf("fafsdfsafds");
+printf("faeds");
 }
